@@ -4,7 +4,7 @@ Welcome to the Snake Game project! This game is a fun implementation inspired by
 
 ## Overview
 
-This project utilizes Python's object-oriented programming features, including classes, class inheritance, and slicing. It serves as a great way to reinforce these concepts while creating an interactive game.
+This project leverages Python's object-oriented programming features, such as classes, inheritance, slicing, and the turtle module, providing an engaging way to reinforce these concepts through the creation of an interactive game.
 
 ## Getting Started
 
